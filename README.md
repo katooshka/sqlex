@@ -1,6 +1,6 @@
 # sqlex
 
-This repo contains solutions to the exercises, presented on the website http://www.sql-ex.com.  
+This repo contains solutions to the exercises presented on the website http://www.sql-ex.com.  
 These are SQL statements for retrieval or modification of specific data.
 
 *Topics covered by the exercises:* 
